@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Projects at Bear Brown Comapny so far"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -41,3 +41,10 @@ The primary aim of this project is to leverage web scraping techniques to extrac
 Supply Chain Anaysis Dashboard (Power BI)
 
 The dataset used in this Power BI project is from Kaggle, titled "DataCo Smart Supply Chain for Big Data Analysis." It includes comprehensive information on various aspects of supply chain management such as sales, customer details, product categories, shipping details, and more. This dataset is crucial for analyzing and optimizing supply chain processes, enabling data-driven decision-making for inventory management, demand planning, sales performance, delivery efficiency, and customer insights.
+
+SaaS (Software as a Service) Support Chatbot (Python- AI models)
+
+This SaaS Support Chatbot is designed to assist users with common questions related to a Software as a Service (SaaS) platform. The chatbot handles user queries related to pricing, features, trials, cancellations, and support. The chatbot can be deployed on a company's website or customer support portal to provide quick and efficient support for customers, reducing the workload on human customer support agents.
+The chatbot uses Natural Language Processing (NLP) techniques to recognize the user's intent and respond appropriately. The initial version uses basic predefined responses, but it can be expanded using dynamic NLP techniques, AI models, or by integrating with real-time SaaS backend systems.
+
+
